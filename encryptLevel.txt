@@ -1,0 +1,4 @@
+FernetKey: Generate FernetKey -> Encrypt (Base64)
+Webhook: Encrypt (Fernet) -> Encrypt (Base64)
+
+https://8gwifi.org/fernet.jsp
